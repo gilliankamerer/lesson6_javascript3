@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 31st, 2017
 
 ### Student Name:  
-(First and Last Name)
+Gillian Kamerer
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is designed to help students understand how to use JavaScript to implement nodes in their web pages. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/gilliankamerer/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that Internet Explorer 8 only takes simple selectors so it is important to be sure what you implement is compatible with the system you use. 
+2. You can use an empty string to remove values you don't want implemented -- ("").
+3. There are parent nodes, child nodes, and sibling nodes. Child nodes are to be attached to parent nodes. 
